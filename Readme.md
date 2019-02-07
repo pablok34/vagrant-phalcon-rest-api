@@ -2,6 +2,13 @@
 
 ## Installation
 
+Clone repository:
+
+```BASH
+$ git clone https://github.com/pablok34/vagrant-phalcon-rest-api.git
+$ cd vagrant-phalcon-rest-api
+```
+
 Vagrant:
 
 ```BASH
