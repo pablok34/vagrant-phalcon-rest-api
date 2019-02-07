@@ -243,8 +243,3 @@ yes | phalcon migration run
 
 #run composer install
 composer install
-
-
-cat << 'EOF' | sudo tee /etc/nginx/sites-available/phalcon
-fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
-EOF
