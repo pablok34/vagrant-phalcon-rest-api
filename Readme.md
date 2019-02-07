@@ -1,4 +1,4 @@
-# Phalcon restfull API
+# Phalcon RESTful API
 
 ## Installation
 
